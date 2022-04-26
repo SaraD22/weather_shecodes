@@ -8,7 +8,7 @@ export default function App() {
       <footer>
         {" "}
         This project was coded by Sara Duarte and is{" "}
-        <a href="https://github.com/SaraD22/weather_shecodes" target="_blank">
+        <a href="https://github.com/SaraD22/weather_shecodes">
           open-sourced on GitHub
         </a>
       </footer>
